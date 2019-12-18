@@ -5,4 +5,6 @@ This project includes Python notebook that has the complete code to run the CRF.
 
 If you open this from Google Colab, you can run right away without any further setup. I develop using Colab.
 
-Will add specific instruction on how to open this notebook directly from Google Colab.
+See instruction here:
+
+https://medium.com/@phylypo/open-python-notebook-from-github-9177ab819b53
