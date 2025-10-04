@@ -17,3 +17,7 @@ If you open this from Google Colab, you can run right away without any further s
 See instruction here:
 
 https://medium.com/@phylypo/open-python-notebook-from-github-9177ab819b53
+
+
+# Sample code
+To use the sample code, see /models with saved model files.
